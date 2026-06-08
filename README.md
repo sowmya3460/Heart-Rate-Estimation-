@@ -15,7 +15,7 @@ A Flask-based web application that estimates heart rate using eye blink detectio
 
 ---
 
-## 🧠 Example
+## 🧠 Example Output
 ![alt text](image.png)
 | Blink Frequency   | Heart Rate (BPM) |
 |------------------|------------------|
